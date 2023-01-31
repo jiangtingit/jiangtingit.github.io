@@ -65,7 +65,7 @@ section{
 	display: block;
 /*	width: 90%;*/
 }
-.medium img{
+.medium img, video{
 	display: block;
 	width: 70%;
 	margin: 0 20% 0.5% 0;
